@@ -1,1 +1,1 @@
-# laserx-games
+# laserx-game
